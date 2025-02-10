@@ -1,5 +1,10 @@
 ## Hi there, i am a systems engineer 👋
-My name is Leonel 
+- My name is Leonel, I am currently studying to be a systems engineer.
+- you can find me at.
+  • instagram: elvisy_fbx
+  • whatsaap: 63804090
+  • facebook: leooxz Nellxz
+
 
 <!--
 **leon4l25/leon4l25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
