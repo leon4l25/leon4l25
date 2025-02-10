@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there, i am a systems engineer 👋
+My name is Leonel 
 
 <!--
 **leon4l25/leon4l25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
