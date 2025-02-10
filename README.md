@@ -1,7 +1,6 @@
 ## Hi there, i am a systems engineer 👋
 - My name is Leonel, I am currently studying to be a systems engineer.
-- you can find me at
--instagram: elvisy_fbx
+- you can find me at.                       -instagram: elvisy_fbx
 -whatsaap: 63804090
 -facebook: leooxz Nellxz
 
